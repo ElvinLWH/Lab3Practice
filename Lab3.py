@@ -48,7 +48,7 @@ def main():
     print(result)
 
     # Sort in descending order
-    print("Sorted array in ascending order: ")
+    print("Sorted array in descending order: ")
     result = bubble_sort(arr, SORT_DESCENDING)
     print(result)
 
